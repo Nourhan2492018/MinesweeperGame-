@@ -1,0 +1,4 @@
+﻿  main.cpp
+E:\zc.uwk\game\main.cpp(85): warning C4244: '=': conversion from 'time_t' to 'float', possible loss of data
+E:\zc.uwk\game\main.cpp(172): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  game.vcxproj -> E:\zc.uwk\game\Debug\game.exe
